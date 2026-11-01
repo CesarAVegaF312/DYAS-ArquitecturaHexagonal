@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Variables de entorno locales (solo se versiona .env.example)
+.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+.DS_Store
